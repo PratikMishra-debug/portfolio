@@ -1,0 +1,16 @@
+{
+  "name": "Pratik Kumar — Portfolio",
+  "short_name": "Pratik Kumar",
+  "description": "Full Stack Developer, Cloud Computing Enthusiast, Computer Vision Explorer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070B",
+  "theme_color": "#05070B",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='42' fill='%2305070B'/%3E%3Ccircle cx='50' cy='50' r='42' fill='none' stroke='%234F8CFF' stroke-width='4'/%3E%3Ctext x='50' y='63' font-size='44' font-family='Georgia' fill='%2300D4FF' text-anchor='middle'%3EP%3C/text%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
