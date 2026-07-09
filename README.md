@@ -24,7 +24,7 @@ I'm passionate about creating modern web applications, exploring cloud computing
 
 I believe the best way to learn is by building.
 
-portfoliodevp.netlify.app
+https://6a4f8857a5dcd600086cde91--portfoliodevp.netlify.app/
 ---
 
 # 🌟 Current Focus
